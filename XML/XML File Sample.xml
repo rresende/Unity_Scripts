@@ -1,0 +1,5662 @@
+<Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3JqavTLaLF5wwo3g6AKFyT</IfcGUID>
+    <Element_Id>345132</Element_Id>
+    <Unique_Id>d3d24e5d-5645-4f17-aeb2-0ea18a55bb31-0005442c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0D_iGdamf9B8AfB5af$5fU</IfcGUID>
+    <Element_Id>348728</Element_Id>
+    <Unique_Id>0dfac427-930a-492c-82a9-2c5929f90866-00055238</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0D_iGdamf9B8AfB5af$5nF</IfcGUID>
+    <Element_Id>349225</Element_Id>
+    <Unique_Id>0dfac427-930a-492c-82a9-2c5929f90866-00055429</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0D_iGdamf9B8AfB5af$5ok</IfcGUID>
+    <Element_Id>349384</Element_Id>
+    <Unique_Id>0dfac427-930a-492c-82a9-2c5929f90866-000554c8</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0D_iGdamf9B8AfB5af$5oT</IfcGUID>
+    <Element_Id>349435</Element_Id>
+    <Unique_Id>0dfac427-930a-492c-82a9-2c5929f90866-000554fb</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0D_iGdamf9B8AfB5af$5rm</IfcGUID>
+    <Element_Id>349462</Element_Id>
+    <Unique_Id>0dfac427-930a-492c-82a9-2c5929f90866-00055516</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0D_iGdamf9B8AfB5af$5qM</IfcGUID>
+    <Element_Id>349552</Element_Id>
+    <Unique_Id>0dfac427-930a-492c-82a9-2c5929f90866-00055570</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0D_iGdamf9B8AfB5af$5tC</IfcGUID>
+    <Element_Id>349610</Element_Id>
+    <Unique_Id>0dfac427-930a-492c-82a9-2c5929f90866-000555aa</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8WJo</IfcGUID>
+    <Element_Id>349663</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-000555df</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8WSY</IfcGUID>
+    <Element_Id>349711</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-0005560f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8WTq</IfcGUID>
+    <Element_Id>349785</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00055659</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8WUg</IfcGUID>
+    <Element_Id>349831</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00055687</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8WUp</IfcGUID>
+    <Element_Id>349854</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-0005569e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8WUK</IfcGUID>
+    <Element_Id>349881</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-000556b9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8Wy9</IfcGUID>
+    <Element_Id>351780</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00055e24</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8Wzi</IfcGUID>
+    <Element_Id>351809</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00055e41</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8Z8g</IfcGUID>
+    <Element_Id>353031</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00056307</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8Z9X</IfcGUID>
+    <Element_Id>353100</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-0005634c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8Z9A</IfcGUID>
+    <Element_Id>353127</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00056367</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8ZAl</IfcGUID>
+    <Element_Id>353154</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00056382</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8ZAq</IfcGUID>
+    <Element_Id>353177</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00056399</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8ZJt</IfcGUID>
+    <Element_Id>353754</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-000565da</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8ZV8</IfcGUID>
+    <Element_Id>354021</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-000566e5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8ZOl</IfcGUID>
+    <Element_Id>354050</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00056702</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8ZOm</IfcGUID>
+    <Element_Id>354077</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-0005671d</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8ZOL</IfcGUID>
+    <Element_Id>354104</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00056738</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8ZP_</IfcGUID>
+    <Element_Id>354131</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00056753</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8ZQ_</IfcGUID>
+    <Element_Id>354195</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00056793</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8ZaE</IfcGUID>
+    <Element_Id>354339</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00056823</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8ZaJ</IfcGUID>
+    <Element_Id>354366</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-0005683e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1S4v6Gs6jANgqs0VRr8Zbq</IfcGUID>
+    <Element_Id>354393</Element_Id>
+    <Unique_Id>5c139190-d86b-4a5e-ad36-01f6f527512d-00056859</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.2</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpzdB</IfcGUID>
+    <Element_Id>355237</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00056ba5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.2</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpzxb</IfcGUID>
+    <Element_Id>355467</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00056c8b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.4</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpzoW</IfcGUID>
+    <Element_Id>356046</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00056ece</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.4</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpztx</IfcGUID>
+    <Element_Id>356245</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00056f95</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.1</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpyDa</IfcGUID>
+    <Element_Id>356618</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-0005710a</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.8</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpyQH</IfcGUID>
+    <Element_Id>357631</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000574ff</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.6</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpyJ8</IfcGUID>
+    <Element_Id>358054</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000576a6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.1</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpyM8sssasasd</IfcGUID>
+    <Element_Id>358374</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000577e6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.8</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpyM7</IfcGUID>
+    <Element_Id>358377</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000577e9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.6</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpyht</IfcGUID>
+    <Element_Id>358553</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00057899</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.6</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpyl4</IfcGUID>
+    <Element_Id>358826</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000579aa</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.6</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpydu</IfcGUID>
+    <Element_Id>359318</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00057b96</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.2</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpp8I</IfcGUID>
+    <Element_Id>360572</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-0005807c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.8</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpp1v</IfcGUID>
+    <Element_Id>360983</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00058217</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.8</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpp61</IfcGUID>
+    <Element_Id>361455</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000583ef</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.4</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUppQb</IfcGUID>
+    <Element_Id>361675</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000584cb</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.6</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUppHj</IfcGUID>
+    <Element_Id>361987</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00058603</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.6</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUppGS</IfcGUID>
+    <Element_Id>362098</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00058672</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.2</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUppev</IfcGUID>
+    <Element_Id>362583</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00058857</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.2</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpplJ</IfcGUID>
+    <Element_Id>362941</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000589bd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.4</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUppY9</IfcGUID>
+    <Element_Id>363239</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00058ae7</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUppa6</IfcGUID>
+    <Element_Id>363368</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00058b68</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUppc7</IfcGUID>
+    <Element_Id>363497</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00058be9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.2</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUppwS</IfcGUID>
+    <Element_Id>363762</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00058cf2</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpp_D</IfcGUID>
+    <Element_Id>364003</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00058de3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.4</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUppo$</IfcGUID>
+    <Element_Id>364241</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00058ed1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.3</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpptH</IfcGUID>
+    <Element_Id>364479</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00058fbf</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoBY</IfcGUID>
+    <Element_Id>364684</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-0005908c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.3</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoDL</IfcGUID>
+    <Element_Id>364859</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-0005913b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.3</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoFn</IfcGUID>
+    <Element_Id>364959</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-0005919f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.9</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpo4g</IfcGUID>
+    <Element_Id>365380</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059344</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoPz</IfcGUID>
+    <Element_Id>365587</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059413</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.2</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoTr</IfcGUID>
+    <Element_Id>365851</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-0005951b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.8</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoVo</IfcGUID>
+    <Element_Id>365980</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-0005959c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.9</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoGY</IfcGUID>
+    <Element_Id>366156</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-0005964c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoIC</IfcGUID>
+    <Element_Id>366306</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000596e2</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.9</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoNq</IfcGUID>
+    <Element_Id>366490</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-0005979a</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpofE</IfcGUID>
+    <Element_Id>366624</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059820</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.15</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpohF</IfcGUID>
+    <Element_Id>366753</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000598a1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.15</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoiY</IfcGUID>
+    <Element_Id>366924</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-0005994c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.15</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpolE</IfcGUID>
+    <Element_Id>367008</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000599a0</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.15</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpokW</IfcGUID>
+    <Element_Id>367054</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-000599ce</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.75</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoWW</IfcGUID>
+    <Element_Id>367182</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059a4e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoZG</IfcGUID>
+    <Element_Id>367294</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059abe</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.9</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoYH</IfcGUID>
+    <Element_Id>367359</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059aff</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.9</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpobO</IfcGUID>
+    <Element_Id>367414</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059b36</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoca</IfcGUID>
+    <Element_Id>367562</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059bca</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.6</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpouZ</IfcGUID>
+    <Element_Id>367693</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059c4d</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.3</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpowI</IfcGUID>
+    <Element_Id>367868</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059cfc</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpoyt</IfcGUID>
+    <Element_Id>367961</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059d59</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.9</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpo_E</IfcGUID>
+    <Element_Id>368096</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059de0</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpo_F</IfcGUID>
+    <Element_Id>368097</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059de1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.75</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpong</IfcGUID>
+    <Element_Id>368132</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059e04</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUponh</IfcGUID>
+    <Element_Id>368133</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059e05</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.9</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpone</IfcGUID>
+    <Element_Id>368134</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059e06</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpomd</IfcGUID>
+    <Element_Id>368201</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059e49</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.8</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpopm</IfcGUID>
+    <Element_Id>368286</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-00059e9e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1</Wall_Width>
+    <IfcGUID>13VpspW390bgm$hdzUpn9e</IfcGUID>
+    <Element_Id>368646</Element_Id>
+    <Unique_Id>437f3db3-8032-4096-ac3f-ae7f5ecab26e-0005a006</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrwd</IfcGUID>
+    <Element_Id>368759</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a077</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.4</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczruE</IfcGUID>
+    <Element_Id>368862</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a0de</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.6</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrza</IfcGUID>
+    <Element_Id>369076</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a1b4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.8</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVIJRczrm_</IfcGUID>
+    <Element_Id>369390</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a2ee</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.3</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrh3</IfcGUID>
+    <Element_Id>369683</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a413</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrfJ</IfcGUID>
+    <Element_Id>369795</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a483</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.4</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczref</IfcGUID>
+    <Element_Id>369913</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a4f9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.4</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrkR</IfcGUID>
+    <Element_Id>369995</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a54b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.3</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrim</IfcGUID>
+    <Element_Id>370144</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a5e0</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.75</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrYQ</IfcGUID>
+    <Element_Id>370250</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a64a</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrXc</IfcGUID>
+    <Element_Id>370358</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a6b6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.15</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrdD</IfcGUID>
+    <Element_Id>370461</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a71d</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.15</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrch</IfcGUID>
+    <Element_Id>370555</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a77b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.15</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrbu</IfcGUID>
+    <Element_Id>370600</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a7a8</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.1</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrRs</IfcGUID>
+    <Element_Id>370726</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a826</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.1</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrQC</IfcGUID>
+    <Element_Id>370780</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a85c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrOj</IfcGUID>
+    <Element_Id>370941</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a8fd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.4</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrUF</IfcGUID>
+    <Element_Id>371039</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a95f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.4</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrSa</IfcGUID>
+    <Element_Id>371188</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005a9f4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.6</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrMM</IfcGUID>
+    <Element_Id>371526</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005ab46</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrA8</IfcGUID>
+    <Element_Id>371800</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005ac58</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.3</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczr8T</IfcGUID>
+    <Element_Id>371917</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005accd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.3</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrFB</IfcGUID>
+    <Element_Id>371995</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005ad1b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.3</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczrE8</IfcGUID>
+    <Element_Id>372056</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005ad58</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.6</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczr3b</IfcGUID>
+    <Element_Id>372277</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005ae35</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.8</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczr75</IfcGUID>
+    <Element_Id>372501</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005af15</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.9</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczr6j</IfcGUID>
+    <Element_Id>372605</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005af7d</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.3</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczr4S</IfcGUID>
+    <Element_Id>372684</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005afcc</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.15</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczqxo</IfcGUID>
+    <Element_Id>372770</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005b022</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczquo</IfcGUID>
+    <Element_Id>372962</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005b0e2</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczqzQ</IfcGUID>
+    <Element_Id>373130</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005b18a</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczqoV</IfcGUID>
+    <Element_Id>373327</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005b24f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.7</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczqn9</IfcGUID>
+    <Element_Id>373401</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005b299</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.1</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczqtD</IfcGUID>
+    <Element_Id>373533</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005b31d</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.8</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczqrR</IfcGUID>
+    <Element_Id>373643</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005b38b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1</Wall_Width>
+    <IfcGUID>2hpjKvFszCiQrVGJVczqge</IfcGUID>
+    <Element_Id>373880</Element_Id>
+    <Unique_Id>abced539-3f6f-4cb1-ad5f-4137e6f2fed0-0005b478</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>398227</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-00061393</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>398465</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-00061481</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>398514</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-000614b2</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1</Wall_Width>
+    <IfcGUID>3HnwN4fPXFIvBnLvuoM9DU</IfcGUID>
+    <Element_Id>398692</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-00061564</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>398770</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-000615b2</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>398967</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-00061677</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>399116</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-0006170c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>399267</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-000617a3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>399394</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-00061822</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>399406</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-0006182e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>399567</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-000618cf</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>399946</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-00061a4a</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>400151</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-00061b17</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>400278</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-00061b96</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>400307</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-00061bb3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>400439</Element_Id>
+    <Unique_Id>d1c7a5c4-a598-4f4b-92f1-579e325e863a-00061c37</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>400543</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00061c9f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>400606</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00061cde</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>400777</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00061d89</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>400940</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00061e2c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>401154</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00061f02</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>401493</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00062055</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>402598</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-000624a6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>402700</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-0006250c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>403898</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-000629ba</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>404002</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00062a22</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>404020</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00062a34</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>404189</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00062add</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>404435</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00062bd3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>404453</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00062be5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>404603</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00062c7b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>404747</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00062d0b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>404773</Element_Id>
+    <Unique_Id>bb088b90-a26b-40cb-8e18-439d144e7d09-00062d25</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>404956</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-00062ddc</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>405087</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-00062e5f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>405171</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-00062eb3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>405283</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-00062f23</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>405463</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-00062fd7</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>405507</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-00063003</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>405620</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-00063074</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>0r5SjNn$zCsu79kwQTOoXd</IfcGUID>
+    <Element_Id>405855</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-0006315f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>405931</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-000631ab</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>406094</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-0006324e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>406211</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-000632c3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>406315</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-0006332b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>406473</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-000633c9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>406571</Element_Id>
+    <Unique_Id>3515cb57-c7ff-4cdb-81c9-bba69d651938-0006342b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>406814</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-0006351e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>407027</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-000635f3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>407136</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-00063660</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>407265</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-000636e1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>407431</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-00063787</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>407621</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-00063845</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>407639</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-00063857</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>407871</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-0006393f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>408269</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-00063acd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>408281</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-00063ad9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>408459</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-00063b8b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>408525</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-00063bcd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>408766</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-00063cbe</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>408898</Element_Id>
+    <Unique_Id>e441a4bc-7d03-4ef1-99f6-b7e94b609d4a-00063d42</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>0BYFpyy3TBNRJHuraJuPV9</IfcGUID>
+    <Element_Id>409077</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-00063df5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>409096</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-00063e08</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>409343</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-00063eff</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>409492</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-00063f94</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>409591</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-00063ff7</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>409870</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-0006410e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410175</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-0006423f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410330</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-000642da</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410349</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-000642ed</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410534</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-000643a6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410568</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-000643c8</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410599</Element_Id>
+    <Unique_Id>0b88fcfc-f037-4b5d-b4d1-e35913e7aa3c-000643e7</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410621</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-000643fd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410836</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-000644d4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410864</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-000644f0</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410890</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-0006450a</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410919</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-00064527</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410940</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-0006453c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410963</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-00064553</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>410987</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-0006456b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411005</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-0006457d</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411150</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-0006460e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411239</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-00064667</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411323</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-000646bb</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>1cJqf5aVzAPuctrLyV_jB3</IfcGUID>
+    <Element_Id>411364</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-000646e4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411365</Element_Id>
+    <Unique_Id>664f4a45-91ff-4a67-89b7-d55f1ffc9427-000646e5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411624</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-000647e8</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411750</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064866</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411790</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-0006488e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411838</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-000648be</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411866</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-000648da</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411893</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-000648f5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411964</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-0006493c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411972</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064944</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>411980</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-0006494c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412002</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064962</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412076</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-000649ac</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412084</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-000649b4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412106</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-000649ca</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412137</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-000649e9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412310</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064a96</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412318</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064a9e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412326</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064aa6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412334</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064aae</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412342</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064ab6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412350</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064abe</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412358</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064ac6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412366</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064ace</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412374</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064ad6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412382</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064ade</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412390</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064ae6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412398</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064aee</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412406</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064af6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412414</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064afe</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412422</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064b06</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412430</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064b0e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412438</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064b16</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412446</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064b1e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412468</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064b34</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412593</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064bb1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412601</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064bb9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412609</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064bc1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412617</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064bc9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412625</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064bd1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412633</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064bd9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412641</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064be1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412649</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064be9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412657</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064bf1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412665</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064bf9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412673</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c01</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412681</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c09</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412689</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c11</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412697</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c19</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412705</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c21</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412713</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c29</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412721</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c31</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412729</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c39</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412737</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c41</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412745</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c49</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412753</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c51</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412775</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064c67</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412876</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064ccc</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412884</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064cd4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>412923</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064cfb</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413133</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064dcd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413141</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064dd5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413149</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064ddd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413232</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064e30</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413246</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064e3e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413387</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064ecb</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413395</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064ed3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413431</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064ef7</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413595</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064f9b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413603</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064fa3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413611</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064fab</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413619</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064fb3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413627</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064fbb</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413635</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064fc3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413649</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00064fd1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413825</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00065081</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413847</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00065097</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>413910</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-000650d6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414095</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-0006518f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414276</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00065244</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414284</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-0006524c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414292</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00065254</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414300</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-0006525c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414308</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00065264</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414316</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-0006526c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414324</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-00065274</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414421</Element_Id>
+    <Unique_Id>f60192f3-433c-4942-aee6-61194cb8f5ce-000652d5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414520</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-00065338</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414676</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000653d4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414684</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000653dc</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414692</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000653e4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414700</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000653ec</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414708</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000653f4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414716</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000653fc</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414724</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-00065404</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414732</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-0006540c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414818</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-00065462</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414941</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000654dd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414949</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000654e5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414957</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000654ed</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414965</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000654f5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414973</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000654fd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414981</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-00065505</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414989</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-0006550d</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>414997</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-00065515</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>415067</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-0006555b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>415210</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000655ea</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>415218</Element_Id>
+    <Unique_Id>76f7d239-dd8e-4d2f-9059-232c163ac503-000655f2</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Structural Columns</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>21HBxFuXz0VwDQLLzcKhBp</IfcGUID>
+    <Element_Id>415275</Element_Id>
+    <Unique_Id>8144becf-e21f-407f-a35a-555f6654e4d8-0006562b</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Structural Columns</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>21HBxFuXz0VwDQLLzcKh8s</IfcGUID>
+    <Element_Id>415470</Element_Id>
+    <Unique_Id>8144becf-e21f-407f-a35a-555f6654e4d8-000656ee</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Structural Columns</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>21HBxFuXz0VwDQLLzcKhFu</IfcGUID>
+    <Element_Id>415520</Element_Id>
+    <Unique_Id>8144becf-e21f-407f-a35a-555f6654e4d8-00065720</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Structural Columns</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>21HBxFuXz0VwDQLLzcKhFZ</IfcGUID>
+    <Element_Id>415547</Element_Id>
+    <Unique_Id>8144becf-e21f-407f-a35a-555f6654e4d8-0006573b</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Structural Columns</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>21HBxFuXz0VwDQLLzcKhE3</IfcGUID>
+    <Element_Id>415579</Element_Id>
+    <Unique_Id>8144becf-e21f-407f-a35a-555f6654e4d8-0006575b</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Structural Columns</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>21HBxFuXz0VwDQLLzcKhDO</IfcGUID>
+    <Element_Id>415616</Element_Id>
+    <Unique_Id>8144becf-e21f-407f-a35a-555f6654e4d8-00065780</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>21HBxFuXz0VwDQLLzcKhq4</IfcGUID>
+    <Element_Id>416220</Element_Id>
+    <Unique_Id>8144becf-e21f-407f-a35a-555f6654e4d8-000659dc</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>21HBxFuXz0VwDQLLzcKhu2</IfcGUID>
+    <Element_Id>416474</Element_Id>
+    <Unique_Id>8144becf-e21f-407f-a35a-555f6654e4d8-00065ada</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>21HBxFuXz0VwDQLLzcKh$O</IfcGUID>
+    <Element_Id>416512</Element_Id>
+    <Unique_Id>8144becf-e21f-407f-a35a-555f6654e4d8-00065b00</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>21HBxFuXz0VwDQLLzcKh$R</IfcGUID>
+    <Element_Id>416515</Element_Id>
+    <Unique_Id>8144becf-e21f-407f-a35a-555f6654e4d8-00065b03</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>21HBxFuXz0VwDQLLzcKh$V</IfcGUID>
+    <Element_Id>416519</Element_Id>
+    <Unique_Id>8144becf-e21f-407f-a35a-555f6654e4d8-00065b07</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2bHh1XvKr7o9qiVbUwABh8</IfcGUID>
+    <Element_Id>417126</Element_Id>
+    <Unique_Id>a546b061-e54d-47c8-9d2c-7e57ba2ee7ae-00065d66</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2bHh1XvKr7o9qiVbUwABaY</IfcGUID>
+    <Element_Id>417420</Element_Id>
+    <Unique_Id>a546b061-e54d-47c8-9d2c-7e57ba2ee7ae-00065e8c</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>417646</Element_Id>
+    <Unique_Id>4050f9f9-51a5-48a3-84c4-7dd2d7075a5b-00065f6e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>28T2Q365n0devPLs38lFuT</IfcGUID>
+    <Element_Id>418047</Element_Id>
+    <Unique_Id>88742683-185c-409e-8e59-5760c8ba9ee2-000660ff</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>28T2Q365n0devPLs38lFm8</IfcGUID>
+    <Element_Id>418538</Element_Id>
+    <Unique_Id>88742683-185c-409e-8e59-5760c8ba9ee2-000662ea</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>28T2Q365n0devPLs38lFW2</IfcGUID>
+    <Element_Id>419552</Element_Id>
+    <Unique_Id>88742683-185c-409e-8e59-5760c8ba9ee2-000666e0</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.2</Wall_Width>
+    <IfcGUID>28T2Q365n0devPLs38lFap</IfcGUID>
+    <Element_Id>419793</Element_Id>
+    <Unique_Id>88742683-185c-409e-8e59-5760c8ba9ee2-000667d1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.2</Wall_Width>
+    <IfcGUID>28T2Q365n0devPLs38lFOZ</IfcGUID>
+    <Element_Id>420033</Element_Id>
+    <Unique_Id>88742683-185c-409e-8e59-5760c8ba9ee2-000668c1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.4</Wall_Width>
+    <IfcGUID>28T2Q365n0devPLs38lFTn</IfcGUID>
+    <Element_Id>420243</Element_Id>
+    <Unique_Id>88742683-185c-409e-8e59-5760c8ba9ee2-00066993</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.1</Wall_Width>
+    <IfcGUID>28T2Q365n0devPLs38lFJt</IfcGUID>
+    <Element_Id>420373</Element_Id>
+    <Unique_Id>88742683-185c-409e-8e59-5760c8ba9ee2-00066a15</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.1</Wall_Width>
+    <IfcGUID>28T2Q365n0devPLs38lFKb</IfcGUID>
+    <Element_Id>420807</Element_Id>
+    <Unique_Id>88742683-185c-409e-8e59-5760c8ba9ee2-00066bc7</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.8</Wall_Width>
+    <IfcGUID>28T2Q365n0devPLs38lF9O</IfcGUID>
+    <Element_Id>421050</Element_Id>
+    <Unique_Id>88742683-185c-409e-8e59-5760c8ba9ee2-00066cba</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1</Wall_Width>
+    <IfcGUID>28T2Q365n0devPLs38lF1y</IfcGUID>
+    <Element_Id>421534</Element_Id>
+    <Unique_Id>88742683-185c-409e-8e59-5760c8ba9ee2-00066e9e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1</Wall_Width>
+    <IfcGUID>2eqDGtlOr9rePbhnW3GpMa</IfcGUID>
+    <Element_Id>421910</Element_Id>
+    <Unique_Id>a8d0d437-bd8d-49d6-8665-af18034545b2-00067016</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.8</Wall_Width>
+    <IfcGUID>2eqDGtlOr9rePbhnW3GpNu</IfcGUID>
+    <Element_Id>421962</Element_Id>
+    <Unique_Id>a8d0d437-bd8d-49d6-8665-af18034545b2-0006704a</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2eqDGtlOr9rePbhnW3GpNj</IfcGUID>
+    <Element_Id>421983</Element_Id>
+    <Unique_Id>a8d0d437-bd8d-49d6-8665-af18034545b2-0006705f</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2eqDGtlOr9rePbhnW3Gp$g</IfcGUID>
+    <Element_Id>424536</Element_Id>
+    <Unique_Id>a8d0d437-bd8d-49d6-8665-af18034545b2-00067a58</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2eqDGtlOr9rePbhnW3Gpud</IfcGUID>
+    <Element_Id>424853</Element_Id>
+    <Unique_Id>a8d0d437-bd8d-49d6-8665-af18034545b2-00067b95</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2eqDGtlOr9rePbhnW3Gpce</IfcGUID>
+    <Element_Id>424986</Element_Id>
+    <Unique_Id>a8d0d437-bd8d-49d6-8665-af18034545b2-00067c1a</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2eqDGtlOr9rePbhnW3Gpcf</IfcGUID>
+    <Element_Id>424987</Element_Id>
+    <Unique_Id>a8d0d437-bd8d-49d6-8665-af18034545b2-00067c1b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2eqDGtlOr9rePbhnW3GpcS</IfcGUID>
+    <Element_Id>425006</Element_Id>
+    <Unique_Id>a8d0d437-bd8d-49d6-8665-af18034545b2-00067c2e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2eqDGtlOr9rePbhnW3GpcT</IfcGUID>
+    <Element_Id>425007</Element_Id>
+    <Unique_Id>a8d0d437-bd8d-49d6-8665-af18034545b2-00067c2f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>425064</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00067c68</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>425119</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00067c9f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>425235</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00067d13</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2LxEFfj1n6pOITqDoR4Jef</IfcGUID>
+    <Element_Id>425664</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00067ec0</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs - Landings</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2LxEFfj1n6pOITqDoR4Jei</IfcGUID>
+    <Element_Id>425669</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00067ec5</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2LxEFfj1n6pOITqDoR4JeX</IfcGUID>
+    <Element_Id>425672</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00067ec8</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Stairs - Landings</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2LxEFfj1n6pOITqDoR4Jea</IfcGUID>
+    <Element_Id>425677</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00067ecd</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Structural Columns</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2LxEFfj1n6pOITqDoR4Je_</IfcGUID>
+    <Element_Id>425687</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00067ed7</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Structural Columns</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2LxEFfj1n6pOITqDoR4SHv</IfcGUID>
+    <Element_Id>426128</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00068090</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.1</Wall_Width>
+    <IfcGUID>2LxEFfj1n6pOITqDoR4SRx</IfcGUID>
+    <Element_Id>426514</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00068212</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.1</Wall_Width>
+    <IfcGUID>2LxEFfj1n6pOITqDoR4S7V</IfcGUID>
+    <Element_Id>427318</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00068536</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.1</Wall_Width>
+    <IfcGUID>2LxEFfj1n6pOITqDoR4S7U</IfcGUID>
+    <Element_Id>427319</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00068537</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>427435</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-000685ab</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Windows</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID />
+    <Element_Id>427556</Element_Id>
+    <Unique_Id>95ece3e9-b41c-46cd-849d-d0dc9b1744e9-00068624</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.1</Wall_Width>
+    <IfcGUID>2B6rhjBfLERwA9eBwEOM8T</IfcGUID>
+    <Element_Id>428048</Element_Id>
+    <Unique_Id>8b1b5aed-2e95-4e6f-a289-a0be8e67ea0d-00068810</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.4</Wall_Width>
+    <IfcGUID>2B6rhjBfLERwA9eBwEOMCD</IfcGUID>
+    <Element_Id>428288</Element_Id>
+    <Unique_Id>8b1b5aed-2e95-4e6f-a289-a0be8e67ea0d-00068900</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.2</Wall_Width>
+    <IfcGUID>2B6rhjBfLERwA9eBwEOMF9</IfcGUID>
+    <Element_Id>428484</Element_Id>
+    <Unique_Id>8b1b5aed-2e95-4e6f-a289-a0be8e67ea0d-000689c4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.2</Wall_Width>
+    <IfcGUID>2B6rhjBfLERwA9eBwEOM4w</IfcGUID>
+    <Element_Id>428855</Element_Id>
+    <Unique_Id>8b1b5aed-2e95-4e6f-a289-a0be8e67ea0d-00068b37</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>1.4</Wall_Width>
+    <IfcGUID>2B6rhjBfLERwA9eBwEOM6u</IfcGUID>
+    <Element_Id>428981</Element_Id>
+    <Unique_Id>8b1b5aed-2e95-4e6f-a289-a0be8e67ea0d-00068bb5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5tML</IfcGUID>
+    <Element_Id>429448</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00068d88</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5tNX</IfcGUID>
+    <Element_Id>429564</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00068dfc</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5tOv</IfcGUID>
+    <Element_Id>429604</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00068e24</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5tPr</IfcGUID>
+    <Element_Id>429672</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00068e68</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5tQq</IfcGUID>
+    <Element_Id>429737</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00068ea9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sfV</IfcGUID>
+    <Element_Id>430658</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069242</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5svX</IfcGUID>
+    <Element_Id>431740</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006967c</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5syM</IfcGUID>
+    <Element_Id>431883</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006970b</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s_6</IfcGUID>
+    <Element_Id>432027</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006979b</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s$3</IfcGUID>
+    <Element_Id>432094</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-000697de</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s$a</IfcGUID>
+    <Element_Id>432121</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-000697f9</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s14</IfcGUID>
+    <Element_Id>432217</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069859</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s2l</IfcGUID>
+    <Element_Id>432306</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-000698b2</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s3N</IfcGUID>
+    <Element_Id>432330</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-000698ca</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s3u</IfcGUID>
+    <Element_Id>432357</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-000698e5</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s4K</IfcGUID>
+    <Element_Id>432393</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069909</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s4t</IfcGUID>
+    <Element_Id>432426</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006992a</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s5B</IfcGUID>
+    <Element_Id>432470</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069956</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s6Y</IfcGUID>
+    <Element_Id>432575</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-000699bf</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s7r</IfcGUID>
+    <Element_Id>432616</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-000699e8</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s85</IfcGUID>
+    <Element_Id>432664</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069a18</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5s8W</IfcGUID>
+    <Element_Id>432701</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069a3d</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sAI</IfcGUID>
+    <Element_Id>432783</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069a8f</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sCE</IfcGUID>
+    <Element_Id>432915</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069b13</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sCX</IfcGUID>
+    <Element_Id>432956</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069b3c</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sE2</IfcGUID>
+    <Element_Id>433055</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069b9f</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sFI</IfcGUID>
+    <Element_Id>433103</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069bcf</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sFg</IfcGUID>
+    <Element_Id>433143</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069bf7</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sHU</IfcGUID>
+    <Element_Id>433219</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069c43</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sIT</IfcGUID>
+    <Element_Id>433280</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069c80</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sIs</IfcGUID>
+    <Element_Id>433323</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069cab</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sJJ</IfcGUID>
+    <Element_Id>433358</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069cce</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sKu</IfcGUID>
+    <Element_Id>433445</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069d25</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sMU</IfcGUID>
+    <Element_Id>433539</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069d83</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sON</IfcGUID>
+    <Element_Id>433674</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069e0a</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sP6</IfcGUID>
+    <Element_Id>433755</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069e5b</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sQP</IfcGUID>
+    <Element_Id>433796</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069e84</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sSU</IfcGUID>
+    <Element_Id>433923</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069f03</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sTr</IfcGUID>
+    <Element_Id>434024</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069f68</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sUE</IfcGUID>
+    <Element_Id>434067</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069f93</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sUt</IfcGUID>
+    <Element_Id>434090</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069faa</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5sVz</IfcGUID>
+    <Element_Id>434144</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-00069fe0</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rXn</IfcGUID>
+    <Element_Id>434284</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a06c</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rat</IfcGUID>
+    <Element_Id>434474</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a12a</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rb5</IfcGUID>
+    <Element_Id>434520</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a158</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rdH</IfcGUID>
+    <Element_Id>434636</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a1cc</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rdl</IfcGUID>
+    <Element_Id>434674</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a1f2</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rfA</IfcGUID>
+    <Element_Id>434775</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a257</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rjN</IfcGUID>
+    <Element_Id>435018</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a34a</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rmP</IfcGUID>
+    <Element_Id>435204</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a404</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rnz</IfcGUID>
+    <Element_Id>435296</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a460</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5roi</IfcGUID>
+    <Element_Id>435377</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a4b1</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rqx</IfcGUID>
+    <Element_Id>435494</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a526</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rsN</IfcGUID>
+    <Element_Id>435594</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a58a</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rtt</IfcGUID>
+    <Element_Id>435690</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a5ea</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rwT</IfcGUID>
+    <Element_Id>435840</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a680</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5rx0</IfcGUID>
+    <Element_Id>435933</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a6dd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5r_3</IfcGUID>
+    <Element_Id>436126</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a79e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5r$k</IfcGUID>
+    <Element_Id>436211</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a7f3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5r1A</IfcGUID>
+    <Element_Id>436311</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a857</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5r1Y</IfcGUID>
+    <Element_Id>436351</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a87f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5r4_</IfcGUID>
+    <Element_Id>436515</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a923</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5r6p</IfcGUID>
+    <Element_Id>436654</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a9ae</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5r7X</IfcGUID>
+    <Element_Id>436732</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006a9fc</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>37zNJJedT0nuc3Vjf$5r9C</IfcGUID>
+    <Element_Id>436817</Element_Id>
+    <Unique_Id>c7f574d3-a277-40c7-8983-7eda7f11f81d-0006aa51</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvS3F</IfcGUID>
+    <Element_Id>436980</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006aaf4</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvS5d</IfcGUID>
+    <Element_Id>437084</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006ab5c</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvS6S</IfcGUID>
+    <Element_Id>437159</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006aba7</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvSO$</IfcGUID>
+    <Element_Id>437252</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006ac04</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvSOH</IfcGUID>
+    <Element_Id>437290</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006ac2a</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvSPk</IfcGUID>
+    <Element_Id>437333</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006ac55</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvSSo</IfcGUID>
+    <Element_Id>437513</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006ad09</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvSUU</IfcGUID>
+    <Element_Id>437669</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006ada5</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQzhs</IfcGUID>
+    <Element_Id>437812</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006ae34</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvSIx</IfcGUID>
+    <Element_Id>437888</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006ae80</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvSJi</IfcGUID>
+    <Element_Id>437975</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006aed7</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvSLO</IfcGUID>
+    <Element_Id>438115</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006af63</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvSNZ</IfcGUID>
+    <Element_Id>438232</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006afd8</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTeX</IfcGUID>
+    <Element_Id>438298</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b01a</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTfg</IfcGUID>
+    <Element_Id>438353</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b051</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTgU</IfcGUID>
+    <Element_Id>438437</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b0a5</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvThB</IfcGUID>
+    <Element_Id>438512</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b0f0</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTj$</IfcGUID>
+    <Element_Id>438596</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b144</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTk6</IfcGUID>
+    <Element_Id>438717</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b1bd</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTlU</IfcGUID>
+    <Element_Id>438757</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b1e5</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTXy</IfcGUID>
+    <Element_Id>438855</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b247</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTaj</IfcGUID>
+    <Element_Id>439062</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b316</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTbh</IfcGUID>
+    <Element_Id>439120</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b350</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTdk</IfcGUID>
+    <Element_Id>439253</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b3d5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTvh</IfcGUID>
+    <Element_Id>439376</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b450</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvT$r</IfcGUID>
+    <Element_Id>439758</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b5ce</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTn2</IfcGUID>
+    <Element_Id>439929</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b679</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTpk</IfcGUID>
+    <Element_Id>440021</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b6d5</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTqB</IfcGUID>
+    <Element_Id>440112</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b730</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvT8K</IfcGUID>
+    <Element_Id>440367</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b82f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTAn</IfcGUID>
+    <Element_Id>440458</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b88a</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTCW</IfcGUID>
+    <Element_Id>440603</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b91b</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTFr</IfcGUID>
+    <Element_Id>440782</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006b9ce</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvT16</IfcGUID>
+    <Element_Id>440957</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006ba7d</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvT3m</IfcGUID>
+    <Element_Id>441035</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006bacb</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvT44</IfcGUID>
+    <Element_Id>441151</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006bb3f</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvT7p</IfcGUID>
+    <Element_Id>441288</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006bbc8</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTPl</IfcGUID>
+    <Element_Id>441428</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006bc54</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTR5</IfcGUID>
+    <Element_Id>441598</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006bcfe</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTT9</IfcGUID>
+    <Element_Id>441714</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006bd72</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTGP</IfcGUID>
+    <Element_Id>441890</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006be22</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTHV</IfcGUID>
+    <Element_Id>441956</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006be64</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvTJV</IfcGUID>
+    <Element_Id>442084</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006bee4</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQem</IfcGUID>
+    <Element_Id>442379</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c00b</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQgj</IfcGUID>
+    <Element_Id>442518</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c096</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQjz</IfcGUID>
+    <Element_Id>442694</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c146</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQkd</IfcGUID>
+    <Element_Id>442780</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c19c</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQXv</IfcGUID>
+    <Element_Id>442946</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c242</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQXA</IfcGUID>
+    <Element_Id>442993</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c271</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQZe</IfcGUID>
+    <Element_Id>443091</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c2d3</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQag</IfcGUID>
+    <Element_Id>443153</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c311</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQbW</IfcGUID>
+    <Element_Id>443227</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c35b</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQdv</IfcGUID>
+    <Element_Id>443330</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c3c2</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQuM</IfcGUID>
+    <Element_Id>443437</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c42d</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQwV</IfcGUID>
+    <Element_Id>443556</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c4a4</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQxh</IfcGUID>
+    <Element_Id>443600</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c4d0</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQzh</IfcGUID>
+    <Element_Id>443728</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c550</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQ_O</IfcGUID>
+    <Element_Id>443811</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c5a3</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQmn</IfcGUID>
+    <Element_Id>443914</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c60a</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQmC</IfcGUID>
+    <Element_Id>443959</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c637</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQpX</IfcGUID>
+    <Element_Id>444122</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c6da</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQqJ</IfcGUID>
+    <Element_Id>444200</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c728</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQrZ</IfcGUID>
+    <Element_Id>444248</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c758</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQtW</IfcGUID>
+    <Element_Id>444379</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c7db</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQ9p</IfcGUID>
+    <Element_Id>444488</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c848</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQAu</IfcGUID>
+    <Element_Id>444547</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c883</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQAY</IfcGUID>
+    <Element_Id>444569</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c899</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQBP</IfcGUID>
+    <Element_Id>444642</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c8e2</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQD0</IfcGUID>
+    <Element_Id>444795</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c97b</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQFd</IfcGUID>
+    <Element_Id>444892</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006c9dc</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQ1e</IfcGUID>
+    <Element_Id>445011</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006ca53</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQ2U</IfcGUID>
+    <Element_Id>445093</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006caa5</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQ33</IfcGUID>
+    <Element_Id>445176</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006caf8</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQ5e</IfcGUID>
+    <Element_Id>445267</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006cb53</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQ7h</IfcGUID>
+    <Element_Id>445392</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006cbd0</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQOp</IfcGUID>
+    <Element_Id>445448</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006cc08</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>0MFrxuN4T1OxAnNWeSvQUn</IfcGUID>
+    <Element_Id>445834</Element_Id>
+    <Unique_Id>163f5ef8-5c47-4163-b2b1-5e0a1ce36a3b-0006cd8a</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$xGS</IfcGUID>
+    <Element_Id>445981</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006ce1d</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$xHM</IfcGUID>
+    <Element_Id>446039</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006ce57</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$xIM</IfcGUID>
+    <Element_Id>446103</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006ce97</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$xJF</IfcGUID>
+    <Element_Id>446158</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006cece</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$xKZ</IfcGUID>
+    <Element_Id>446242</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006cf22</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$xM3</IfcGUID>
+    <Element_Id>446338</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006cf82</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$xNd</IfcGUID>
+    <Element_Id>446438</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006cfe6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$weV</IfcGUID>
+    <Element_Id>446494</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d01e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wf7</IfcGUID>
+    <Element_Id>446534</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d046</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wft</IfcGUID>
+    <Element_Id>446582</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d076</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$whd</IfcGUID>
+    <Element_Id>446694</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d0e6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wjY</IfcGUID>
+    <Element_Id>446819</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d163</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wkD</IfcGUID>
+    <Element_Id>446860</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d18c</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wX$</IfcGUID>
+    <Element_Id>447102</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d27e</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wZf</IfcGUID>
+    <Element_Id>447208</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d2e8</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wan</IfcGUID>
+    <Element_Id>447280</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d330</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wc9</IfcGUID>
+    <Element_Id>447368</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d388</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wdi</IfcGUID>
+    <Element_Id>447469</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d3ed</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wvn</IfcGUID>
+    <Element_Id>447600</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d470</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wxL</IfcGUID>
+    <Element_Id>447700</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d4d4</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$w_b</IfcGUID>
+    <Element_Id>447908</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d5a4</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wmM</IfcGUID>
+    <Element_Id>448023</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d617</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wnr</IfcGUID>
+    <Element_Id>448116</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d674</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wov</IfcGUID>
+    <Element_Id>448184</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d6b8</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wpe</IfcGUID>
+    <Element_Id>448233</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d6e9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Walls</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0.2</Wall_Width>
+    <IfcGUID>2WNLNV7UH0We_RL5Wz$wrM</IfcGUID>
+    <Element_Id>448343</Element_Id>
+    <Unique_Id>a05d55df-1de4-4082-8f9b-54583df97a01-0006d757</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3tjy_kaf1FmAT6mSpuW$g1</IfcGUID>
+    <Element_Id>449075</Element_Id>
+    <Unique_Id>f7b7cfae-9290-4fc0-a746-c1ccf88520b2-0006da33</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3tjy_kaf1FmAT6mSpuW$lY</IfcGUID>
+    <Element_Id>449360</Element_Id>
+    <Unique_Id>f7b7cfae-9290-4fc0-a746-c1ccf88520b2-0006db50</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3waJ6tFhXFlOw8GLafRyap</IfcGUID>
+    <Element_Id>453930</Element_Id>
+    <Unique_Id>fa9131b7-3eb8-4fbd-8e88-415929692419-0006ed2a</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3waJ6tFhXFlOw8GLafRzVx</IfcGUID>
+    <Element_Id>455650</Element_Id>
+    <Unique_Id>fa9131b7-3eb8-4fbd-8e88-415929692419-0006f3e2</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3waJ6tFhXFlOw8GLafRzWh</IfcGUID>
+    <Element_Id>457778</Element_Id>
+    <Unique_Id>fa9131b7-3eb8-4fbd-8e88-415929692419-0006fc32</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3waJ6tFhXFlOw8GLafRZ6$</IfcGUID>
+    <Element_Id>464294</Element_Id>
+    <Unique_Id>fa9131b7-3eb8-4fbd-8e88-415929692419-000715a6</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3waJ6tFhXFlOw8GLafRZpK</IfcGUID>
+    <Element_Id>465101</Element_Id>
+    <Unique_Id>fa9131b7-3eb8-4fbd-8e88-415929692419-000718cd</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3waJ6tFhXFlOw8GLafRZxW</IfcGUID>
+    <Element_Id>465657</Element_Id>
+    <Unique_Id>fa9131b7-3eb8-4fbd-8e88-415929692419-00071af9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3waJ6tFhXFlOw8GLafRWPu</IfcGUID>
+    <Element_Id>467553</Element_Id>
+    <Unique_Id>fa9131b7-3eb8-4fbd-8e88-415929692419-00072261</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YbQG</IfcGUID>
+    <Element_Id>467618</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-000722a2</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YbRM</IfcGUID>
+    <Element_Id>467684</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-000722e4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30Ybnk</IfcGUID>
+    <Element_Id>469084</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-0007285c</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YboG</IfcGUID>
+    <Element_Id>469154</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-000728a2</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YbpH</IfcGUID>
+    <Element_Id>469219</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-000728e3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Generic Models</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YaDU</IfcGUID>
+    <Element_Id>472940</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-0007376c</Unique_Id>
+    <Comments>null</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YamG</IfcGUID>
+    <Element_Id>473122</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-00073822</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YanH</IfcGUID>
+    <Element_Id>473187</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-00073863</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YaoM</IfcGUID>
+    <Element_Id>473252</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-000738a4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YZIZ</IfcGUID>
+    <Element_Id>475281</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-00074091</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YZ36</IfcGUID>
+    <Element_Id>476404</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-000744f4</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YZ47</IfcGUID>
+    <Element_Id>476469</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-00074535</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YZWZ</IfcGUID>
+    <Element_Id>478225</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-00074c11</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YZcj</IfcGUID>
+    <Element_Id>478623</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-00074d9f</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YYJX</IfcGUID>
+    <Element_Id>479443</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-000750d3</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>3xJc09LWr3bB_HaC30YYPy</IfcGUID>
+    <Element_Id>479822</Element_Id>
+    <Unique_Id>fb4e6009-560d-4394-bf91-90c0c08d7432-0007524e</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1svXPw0Ef2489ZIKBIW3FD</IfcGUID>
+    <Element_Id>480312</Element_Id>
+    <Unique_Id>76e6167a-00ea-4210-8263-4942d28767f5-00075438</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1svXPw0Ef2489ZIKBIW3vC</IfcGUID>
+    <Element_Id>481721</Element_Id>
+    <Unique_Id>76e6167a-00ea-4210-8263-4942d28767f5-000759b9</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+  <Element>
+    <Category>Floors</Category>
+    <Family_and_Type />
+    <Base_Constraint />
+    <Wall_Width>0</Wall_Width>
+    <IfcGUID>1svXPw0Ef2489ZIKBIW3oE</IfcGUID>
+    <Element_Id>482171</Element_Id>
+    <Unique_Id>76e6167a-00ea-4210-8263-4942d28767f5-00075b7b</Unique_Id>
+    <Comments>Transparente</Comments>
+  </Element>
+</Element>
